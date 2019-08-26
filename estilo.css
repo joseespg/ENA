@@ -1,0 +1,16 @@
+.form{
+position:relative;
+width:8000px;
+height:800px;
+padding-left:20px;
+background-color:#e5dfcd;
+   
+border-radius:20px;
+margin:auto;
+}
+input [type=text],[type=email]{
+width:430px;
+height:35px;
+    font:14px normal normal uppercase helvetica, arial,serif;
+    
+}
